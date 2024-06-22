@@ -1,0 +1,43 @@
+.backgrr{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.backgrr{
+    width: 100%;
+    height: 90vh;
+    background-image: url(./image/time-speed-and-distance-aptitude-banner.webp);
+    background-position: top;
+   background-size:  contain;
+     position: rela tive;
+    font-family: sans-serif;
+}
+
+.main{
+    display: flex;
+    gap: 80px;
+    margin-left: 20%;
+    margin-top: 50px;
+}
+
+.main div h1{
+    color: brown;
+    font-size: 38px;
+}
+.main div p{
+    font-size: 28px;
+    color:chocolate ;
+}
+.btnnn{
+    margin-left:20% ;
+    display: flex;
+    gap: 70px;
+}
+.btnnn button{
+    padding: 10px 15px;
+    font-size: 25px;
+    background-color: azure;
+    color: brown;
+    border: 2px solid brown;
+    border-radius: 16px;
+} 
